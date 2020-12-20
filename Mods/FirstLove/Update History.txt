@@ -1,0 +1,17 @@
+12.04.2018 - Added Translations (Danish by Sighubert, Portuguese by Ana Carolina/guedesrs). Increased Relationship Gaining a bit.
+12.04.2018 - Fixed an Issue with Teen Age Up Effect.
+17.04.2018 - Added Japanese Translation by maru dada
+17.04.2018 - Added new Interaction "Monkey around" (Will be unlocked. You'll get a Notification). Deleted the Option for Failure Outcome which should fix Interactions not showing up.
+22.04.2018 - Added Spanish Translation by Maxi Pepa. Increased Relationship Gaining a bit more.
+02.05.2018 - Added Italian Translation by Rory
+29.05.2018 - Added Finnish Translation by Satu-Maria
+02.06.2018 - Added French Translation by Loic
+20.06.2018 - Patch Update 1.44.77.1020. Added Chinese Translation by ooyd.
+11.07.2018 - Added Swedish Translation by Giakou, Russian by Neko Amiko
+12.07.2018 - Adjusted Filter System of Phone Calls/Text a bit
+02.08.2018 - Added Polish Translation by Seijatachi
+20.08.2018 - Fixed Chinese Translation
+13.11.2018 - Patch Update 1.47.49.1020
+21.11.2018 - Update of Chinese Translation by Soulkiller
+09.03.2019 - Added Dutch by Azqwerty
+17.04.2019 - Missing Texts (Patch 1.51.75.1020 related) fixed

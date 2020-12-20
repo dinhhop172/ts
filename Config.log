@@ -1,0 +1,237 @@
+=== Application info ===
+Name:            Sims4
+Version:         1.68.154.1020
+Build:           Release 64 Bit
+=== Rating info ===
+GPU: 3 GPU Memory: 3 CPU: 3 RAM: 4 CPU Speed: 2594 Threading: 3
+Adjusted CPU: 3259 RAM: 8101 Adjusted RAM: 7589 Cores: 2
+=== Machine info ===
+OS version:      Windows 10 10.0.18363
+OS prod type:    
+OS major ver:    10
+OS minor ver:    0
+OS SP major ver: 
+OS SP minor ver: 
+OS is 64Bit:     1
+CPU:             GenuineIntel
+    Brand:       Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz
+    Family:      6
+    Model:       12
+    Cores:       2
+    HT:          1
+    x64:         1
+Memory:          8101MB
+Free memory:     5745MB
+VA space:        134217728MB
+User:            DOMDOM
+Computer:        DESKTOP-JT0G6U0
+=== Graphics device info ===
+Number:          0
+Name (driver):   Intel(R) HD Graphics 4600
+Name (database): 4th Gen Intel(R) Core processor graphics - Mobile Haswell GT2 [Found: 1, Supported: 1]
+Vendor:          Intel
+Chipset:         Vendor: 8086, Device: 0416, Board: 00071179, Chipset: 0006
+Driver:          igdumdim64.dll, Version: 20.19.15.5070, GUID: D7B78E66-4756-11CF-0761-0820BAC2D935
+Driver version:  5070
+Monitor:         \\.\DISPLAY1
+Texture memory:  512MB
+Vertex program:  3.0
+Pixel program:   3.0
+Hardware TnL:    1
+Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
+=== Options ===
+NumBoots 19
+LightingQuality 2
+GeneralReflections 2
+ObjectQuality 2
+VisualEffects 2
+PostProcessing 1
+UseUncompressedTextures 1
+TerrainQuality 1
+EdgeSmoothing 0
+TerrainSlopeScaling 1
+SimQuality 3
+ViewDistance 3
+AdvancedRendering 1
+VerticalSync 0
+UseHiDpi 1
+UiScale 100
+UseOSDpi 1
+ResolutionWidth 1366
+ResolutionHeight 768
+ResolutionRefresh 0
+SceneResolution 3
+VisualQuality 0
+FullScreen 1
+WindowedFullScreen 1
+FrameRateLimit 200
+DisableScreensaverInFullscreenMode 1
+AudioQuality 3
+AudioOutputMode 2
+MasterLevel 255
+VoiceLevel 255
+SoundFXLevel 255
+MusicLevel 255
+MenuMusicLevel 255
+UISoundSXLevel 255
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+FPInvertHorizontalRotation 0
+FPInvertVerticalRotation 0
+FPDisableCameraBob 0
+AdvancedCamera 0
+CameraSpeed 100
+FPCameraSpeed 100
+CursorSpeed 100
+CursorAcceleration 100
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 1
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+MaxProtectedSims 0
+SeasonLength 0
+RainOptions 0
+SnowOptions 0
+TemperatureEffects 1
+ThunderSnowStorms 1
+IcyConditions 1
+FameStartSimsOptedOut 0
+NPCCivicVoting 1
+EcoFootprintGameplay 1
+BuildEcoEffects 1
+ShowWhims 0
+LifestylesEffects 1
+ShowModListStartup 1
+ModsDisabled 0
+ScriptModsEnabled 1
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
+RazerOptionEnabled 0
+AnimaticPack 1000
+SurveysEnabled 1
+MuteTutorialNarration 0
+EnableFTUETutorialStart 1
+=== Default Options ===
+NumBoots 4294967295
+LightingQuality 2
+GeneralReflections 2
+ObjectQuality 2
+VisualEffects 2
+PostProcessing 1
+UseUncompressedTextures 1
+TerrainQuality 1
+EdgeSmoothing 0
+TerrainSlopeScaling 1
+SimQuality 2
+ViewDistance 3
+AdvancedRendering 1
+VerticalSync 0
+UseHiDpi 1
+UiScale 100
+UseOSDpi 1
+ResolutionWidth 1600
+ResolutionHeight 900
+ResolutionRefresh 4294967295
+SceneResolution 3
+VisualQuality 3
+FullScreen 0
+WindowedFullScreen 0
+FrameRateLimit 200
+DisableScreensaverInFullscreenMode 1
+AudioQuality 3
+AudioOutputMode 1
+MasterLevel 255
+VoiceLevel 255
+SoundFXLevel 255
+MusicLevel 255
+MenuMusicLevel 255
+UISoundSXLevel 255
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+FPInvertHorizontalRotation 0
+FPInvertVerticalRotation 0
+FPDisableCameraBob 0
+AdvancedCamera 0
+CameraSpeed 100
+FPCameraSpeed 100
+CursorSpeed 100
+CursorAcceleration 100
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 1
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+MaxProtectedSims 0
+SeasonLength 0
+RainOptions 0
+SnowOptions 0
+TemperatureEffects 1
+ThunderSnowStorms 1
+IcyConditions 1
+FameStartSimsOptedOut 0
+NPCCivicVoting 1
+EcoFootprintGameplay 1
+BuildEcoEffects 1
+ShowWhims 0
+LifestylesEffects 1
+ShowModListStartup 1
+ModsDisabled 0
+ScriptModsEnabled 0
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
+RazerOptionEnabled 0
+AnimaticPack 1000
+SurveysEnabled 1
+MuteTutorialNarration 0
+EnableFTUETutorialStart 1
